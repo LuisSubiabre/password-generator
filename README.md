@@ -7,3 +7,5 @@ pip install  -r .\requirements.txt
 
 ## Run server:
 streamlit run app.py
+
+!(screenshot.png)
